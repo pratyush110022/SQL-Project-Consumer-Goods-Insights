@@ -12,6 +12,8 @@ Atliq Hardware, a leading manufacturer of computer hardware in India and several
   
 - **Power BI:**  
   Visualization of insights using charts such as Sunburst, Bar, Matrix, Line, Maps, Donut, etc. Also involved using **DAX** for advanced calculations and measures.
+
+  **🔗 Power BI Dashboard: https://shorturl.at/7TGdg
   
 - **Canva & Adobe Express:**  
   Tools for presentation design, theme creation, color correction, and image editing.
